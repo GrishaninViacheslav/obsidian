@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "e2d2234823ade03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fce12cea10bd5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d33f4d2964cb868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тренировки 3.0/Лекция 1. Стеки..md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58dca485d0c70259",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f1120ce4a1d174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc96c0964210aadc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe25716a2f356457",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beb001fc1f0dbf74",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88024b7ba3ee7575",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b79947dfe8b3f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c59f836578acc819",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тренировки 3.0/Лекция 1. Стеки..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "731e39deaad42a72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тренировки 3.0/Лекция 1. Стеки..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff8f5cab63ed842e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdb430b155f68310",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тренировки 3.0/Лекция 1. Стеки..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d33f4d2964cb868",
+  "lastOpenFiles": [
+    "images/Pasted image 20230228164918.png",
+    "images/Pasted image 20230228170515.png",
+    "images/Pasted image 20230228170458.png",
+    "images/Pasted image 20230228170027.png",
+    "Тренировки 3.0/Лекция 1. Стеки..md",
+    "images/Pasted image 20230228162317.png",
+    "images/Pasted image 20230228162310.png",
+    "images/Pasted image 20230228162305.png",
+    "images/Pasted image 20230228161101.png",
+    "images/Pasted image 20230228160814.png",
+    "images/Pasted image 20230228160759.png",
+    "2023-02-28.md",
+    "Тренировки 3.0",
+    "images",
+    "Untitled.md"
+  ]
+}
